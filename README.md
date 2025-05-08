@@ -13,5 +13,5 @@ Hard Coding. ( Need to change some parameters ) <br><br>
 
 > JEUS Monitoring <br>
   JEUS is kinds of WAS ( Web Application Service ).<br>
-  This script is trying to monitor JEUS's resources and state ( CPU / Memory / Heap Memory / Processor / Thread / Uptime )<br>
+  This script is trying to monitor JEUS's resources and state - CPU / Memory / Heap Memory / Processor / Thread / Uptime <br>
   Planning to add more monitoring item in it.<br><br>
