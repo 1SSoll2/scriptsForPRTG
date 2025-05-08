@@ -15,3 +15,7 @@ Hard Coding. ( Need to change some parameters ) <br><br>
   JEUS is kinds of WAS ( Web Application Service ).<br>
   This script is trying to monitor JEUS's resources and state - CPU / Memory / Heap Memory / Processor / Thread / Uptime <br>
   Planning to add more monitoring item in it.<br><br>
+
+> Dischord <br>
+  Dischord is kinds of Messenger Application. <br>
+  Attempting to utilize PRTG alarm function due to webhook and bot function. <br><br>
