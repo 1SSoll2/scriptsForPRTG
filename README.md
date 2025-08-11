@@ -19,3 +19,8 @@ Hard Coding. ( Need to change some parameters ) <br><br>
 > Dischord <br>
   Dischord is kinds of Messenger Application. <br>
   Attempting to utilize PRTG alarm function due to webhook and bot function. <br><br>
+
+> Making DashBoard <br>
+  Using Node.js / JavaScript / Dify (LLM - Self Made) / PRTG (Monitoring Tool) <br>
+
+<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/63ca5c99-6b7e-431e-b497-2cbc1188aad3" />
